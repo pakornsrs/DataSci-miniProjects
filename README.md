@@ -3,7 +3,6 @@ This repository is used as the place for my mini projects from Google Colab. the
 
 
 1 CKD_Analysis --> The data analysis of CKD patients.
-
 2 ANN_for_tumor --> The application of Neural Network for classifying the CT-scan photo of brain tumor. In this case, the Neural Network was developed from scratch.
 
 3 Churn_analysis --> The churn analysis and prediction model of telecom company clients.
